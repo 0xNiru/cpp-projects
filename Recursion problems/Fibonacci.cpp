@@ -17,7 +17,7 @@ int main() {
   int n;
   cout << " Write the no. of terms : " ;
   cin >> n;
-  cout << "\n The Required Fibbonaci series is \n \n" ;
+  cout << "\nRequired Fibbonaci series is \n \n" ;
   printFibo(n);
 }
 
